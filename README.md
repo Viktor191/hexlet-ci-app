@@ -30,6 +30,7 @@ make lint
 ---
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
+[![CI Workflow](https://github.com/Viktor191/hexlet-ci-app/actions/workflows/workflow.yml/badge.svg)](https://github.com/Viktor191/hexlet-ci-app/actions/workflows/workflow.yml)
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app).
 
